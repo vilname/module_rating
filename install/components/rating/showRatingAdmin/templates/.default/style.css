@@ -1,0 +1,11 @@
+.admin-rating__item{
+    border: 1px solid black;
+    padding: 5px 10px;
+    display: inline-flex;
+}
+.admin-rating__row{
+    display: flex;
+}
+.admin-rating__search{
+    padding-bottom: 1rem;
+}

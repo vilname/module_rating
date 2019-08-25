@@ -1,0 +1,19 @@
+.rating_item{
+    display: flex;
+    flex-direction: column;
+}
+.rating__row{
+    display: flex;
+    justify-content: space-between;
+}
+.rating__row-indent{
+    padding: 1rem 0;
+    border-bottom: 1px solid #ccc;
+}
+.rating__row-indent:last-child{
+    border: none;
+}
+.rating__success-answer{
+    display: none;
+    color: rgb(36, 105, 36);
+}
